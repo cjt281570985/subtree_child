@@ -9,3 +9,4 @@ c777
 add in parent 888
 add 999 测试冲突
 add 10  测试冲突2
+冲突后子模块又增加一条,看parent能否拉取到
